@@ -31,10 +31,11 @@ The choice of fonts is for maximal compatibility and best performance and effect
 
 The profile has been tuning not only for the operating system but also for Firefox. Please use the following fonts in Firefox Font settings to optimize the effects.
 
-1. [Source Serif Pro](https://github.com/adobe/source-serif-pro/tree/release)
-2. [Source Sans Pro](https://github.com/adobe/source-sans-pro/tree/release)
-3. [Source Code Pro](https://github.com/adobe/source-code-pro/tree/release)
+1. [Source Serif Pro](https://github.com/adobe-fonts/source-serif-pro/tree/release)
+2. [Source Sans Pro](https://github.com/adobe-fonts/source-sans-pro/tree/release)
+3. [Source Code Pro](https://github.com/adobe-fonts/source-code-pro/tree/release)
 4. [Source Han Sans](http://sourceforge.net/projects/source-han-sans.adobe/files/SourceHanSansCN-1.000.zip/download)
+
 Enter `about:config` and change the following configurations:
 
 | Key                                                      | Value |
