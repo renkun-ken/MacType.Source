@@ -42,7 +42,7 @@ Enter `about:config` and change the following configurations:
 |----------------------------------------------------------|-------|
 | gfx.direct2d.disabled                                    | true  |
 | gfx.font_loader.delay                                    | -1    |
-| gfx.font_rendering.cleartype.always_use_for_content;true | true  |
+| gfx.font_rendering.cleartype.always_use_for_content      | true  |
 | gfx.font_rendering.cleartype_params.cleartype_level      | 100   |
 | gfx.font_rendering.cleartype_params.enhanced_contrast    | 100   |
 | gfx.font_rendering.cleartype_params.gamma                | 1400  |
