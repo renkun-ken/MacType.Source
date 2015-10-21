@@ -1,15 +1,8 @@
 # MacType.Source
 
-MacType.Source is a MacType profile that provides decent solutions to font rendering and font substitutions for Windows operating systems under English locale and Chiense locale.
+MacType.Source is a MacType profile that provides decent solutions to font rendering and font substitutions for Windows operating systems.
 
-For English-locale Windows, the profile uses the following fonts:
-
-| Environment | Font                              |
-|-------------|-----------------------------------|
-| Windows UI  | Microsoft YaHei UI, Lucida Grande |
-| Firefox     | Source Han Sans CN                |
-
-For Chinese-locale Windows, the profile uses the following fonts:
+The profile uses the following fonts:
 
 | Environment | Font                              |
 |-------------|-----------------------------------|
